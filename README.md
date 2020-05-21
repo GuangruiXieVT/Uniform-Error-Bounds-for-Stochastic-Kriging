@@ -9,3 +9,5 @@ This repository contains the MATLAB code for the numerical experiments in the pa
 "nlogLikelihood.m", "infSK.m" and "gp_predict.m" are functions to make GPML compatible with the heteroscedastic case. 
 
 "MM1_SimData.m" is the function to generate M/M/1 data. 
+
+"mul_func.m" is the function to generate the 2D example data.
